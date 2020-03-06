@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="textInput">Enter Number</string>
+    <string name="buttonText">Enter Guess</string>
+</resources>
